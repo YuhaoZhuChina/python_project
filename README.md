@@ -26,7 +26,7 @@ Name: The prediction of the quality of red wine based on various machine learnin
    of the classes or mean prediction of the individual trees. Random decision forests correct for decision trees’
    overfitting to their training set. It contains several decision trees so it can also solve our problem.
 
-4  Processing the output of different algorithms:
-   (a) Compare the accuracy of different machine learning algorithms.
+4  Processing the output of the algorithm:
+   (a) Compare the accuracy when some parameters changed.
    (b) Test different parameters to improve the accuracy.
-   (c) Conclude the advantages and disadvantages of each algorithms which was used in this project.
+   (c) Conclude the trails that I've tried into a document.
